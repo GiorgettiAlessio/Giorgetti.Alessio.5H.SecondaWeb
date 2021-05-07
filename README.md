@@ -2,7 +2,7 @@
 ## Sito web creato con Aspnet.core.
 ### Breve descrizione:
 Nel sito è possibile effettuare un login o se eventualmente si possiede gia un account accedervi. Inoltre è possibile prenotare una stanza e modificare le prenotazioni aggiungendo o eliminando quelle selezionate.
-## Funzionalità del sito
+### Funzionalità del sito
 * Login o Signin
 * Prenotare stanze hotel
 * Visualizzare il database delle stanze
