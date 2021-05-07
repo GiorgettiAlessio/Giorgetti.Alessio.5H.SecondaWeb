@@ -8,5 +8,5 @@ Nel sito è possibile effettuare un login o se eventualmente si possiede gia un 
 * Visualizzare il database delle stanze
 * modificare o eliminare prenotazioni di stanze dal database
 
-*Il tema del sito è stato scaricato dal seguente link:* [](https://html5up.net/verti)
+*Il tema del sito è stato scaricato dal seguente link:* [ciao](https://html5up.net/verti)
 > L'applicazione è stata realizzata in un contesto didattico da Giorgetti Alessio della classe 5H nell'anno scolastico 2020-21 presso l'istituto ITTS "Belluzzi - da Vinci" di Rimini
